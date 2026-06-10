@@ -20,7 +20,9 @@ Daily notes, templates, graph, backlinks, outgoing links, tag pane, properties, 
 
 ## Obsidian CLI
 
-The `obsidian` CLI (`~/.local/bin/obsidian`, v1.12.7) is installed and available. Use the `/obsidian` skill to invoke it. The Obsidian desktop app must be running — if the CLI returns "unable to find Obsidian", start it first with `snap run obsidian "obsidian://open?vault=FENB" &>/dev/null &` and wait a few seconds before retrying.
+The `obsidian` CLI (`~/.local/bin/obsidian`, v1.12.7) is installed and available. Use the `/obsidian-cli` skill to invoke it. The Obsidian desktop app must be running — if the CLI returns "unable to find Obsidian", start it first with `snap run obsidian "obsidian://open?vault=FENB" &>/dev/null &` and wait a few seconds before retrying.
+
+Related skills: `/obsidian-markdown` for Obsidian-flavored Markdown syntax, `/obsidian-bases` for `.base` files, `/json-canvas` for `.canvas` files.
 
 Prefer the CLI over reading raw files for:
 
@@ -132,3 +134,4 @@ The `source-file` frontmatter field links to the source `.en`/`.fr` wiki-link sl
 - The `## Observations` section is the place for issues, gaps, inconsistencies, and questions. Keep it above `## Summary` so assessment is encountered before content.
 - When adding an observation that references a specific cross-document inconsistency, tag it with `#gap` or `#inconsistency` inline.
 - Update `[[FENB Governance Hub]]` when adding new notes.
+- For CLI write operations (`property:set`, `append`, `create`), confirm with the user before executing unless the request is explicit.
