@@ -8,8 +8,8 @@ status: active
 tags: [board-policy, foundation, governance, carver]
 revision-history: [2007, 2008, "2011-01-25", "2013-03-17", "2017-02-07", "2024-02-18"]
 source-file:
-  - "[[policy-manual-en]]"
-  - "[[policy-manual-fr]]"
+  - "[[policy-manual-en.pdf]]"
+  - "[[policy-manual-fr.pdf]]"
 ---
 
 # Board Policy Manual — FENB
@@ -35,7 +35,7 @@ GP-A4 calls for "reasonable efforts" for diverse Board representation. Policy [[
 ---
 
 > [!abstract] Source Summary
-> Summarized from [[policy-manual-en]] · [[policy-manual-fr]]. See source files for authoritative text.
+> Summarized from [[policy-manual-en.pdf|policy-manual-en]] · [[policy-manual-fr.pdf|policy-manual-fr]]. See source files for authoritative text.
 
 ## Summary
 

@@ -8,8 +8,8 @@ legislation: "NB Companies Act"
 status: active
 tags: [bylaw, foundation, governance]
 source-file:
-  - "[[bylaws-en]]"
-  - "[[bylaws-fr]]"
+  - "[[bylaws-en.pdf]]"
+  - "[[bylaws-fr.pdf]]"
 ---
 
 # Bylaws — Fencing-Escrime NB Inc.
@@ -38,7 +38,7 @@ At 40% of voting members needed to call a Special GM (§10), a significant minor
 ---
 
 > [!abstract] Source Summary
-> Summarized from [[bylaws-en]] · [[bylaws-fr]]. See source files for authoritative text.
+> Summarized from [[bylaws-en.pdf|bylaws-en]] · [[bylaws-fr.pdf|bylaws-fr]]. See source files for authoritative text.
 
 ## Summary
 

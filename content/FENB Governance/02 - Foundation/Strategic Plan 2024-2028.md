@@ -7,8 +7,8 @@ launched: "2024-25 fencing season"
 status: active
 tags: [strategic-plan, foundation]
 source-file:
-  - "[[strategic-plan-en]]"
-  - "[[strategic-plan-fr]]"
+  - "[[strategic-plan-en.pdf]]"
+  - "[[strategic-plan-fr.pdf]]"
 ---
 
 # Strategic Plan 2024–2028 — FENB
@@ -37,7 +37,7 @@ The membership data (72% male) reveals that achieving the DEI policy's goal of 4
 ---
 
 > [!abstract] Source Summary
-> Summarized from [[strategic-plan-en]] · [[strategic-plan-fr]]. See source files for authoritative text.
+> Summarized from [[strategic-plan-en.pdf|strategic-plan-en]] · [[strategic-plan-fr.pdf|strategic-plan-fr]]. See source files for authoritative text.
 
 ## Summary
 
