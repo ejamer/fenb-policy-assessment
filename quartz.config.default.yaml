@@ -13,7 +13,6 @@ configuration:
     - templates
     - .obsidian
     - CLAUDE.md
-    - source_files
     - memory
   theme:
     fontOrigin: googleFonts
