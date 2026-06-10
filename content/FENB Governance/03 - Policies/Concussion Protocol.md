@@ -22,6 +22,8 @@ source-file:
 - [[2.1 Safe Sport, Conduct, and Athlete Protection]]
 - [[2.17 Crisis and Emergency Management]]
 
+---
+
 ## Observations
 
 ### This protocol has no formal approval date #gap
@@ -32,6 +34,11 @@ Section J of [[2.1 Safe Sport, Conduct, and Athlete Protection]] requires coache
 
 ### The protocol is separate from the sport injury emergency response
 The [[2.17 Crisis and Emergency Management]] policy would govern a serious head injury during an event (emergency response, incident reporting, insurer notification). The Concussion Protocol governs recognition and return-to-sport management. These two instruments are complementary but not explicitly cross-referenced in both directions — 2.17 doesn't mention concussion management, and this protocol doesn't mention the incident reporting chain.
+
+---
+
+> [!abstract] Source Summary
+> Summarized from [[concussion-protocol.en]] · [[concussion-protocol.fr]]. See source files for authoritative text.
 
 ## Summary
 

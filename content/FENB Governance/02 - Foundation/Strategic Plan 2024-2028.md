@@ -15,6 +15,8 @@ source-file:
 
 *Developed through member surveys, situational analysis, review of similar organizations' strategic plans, and input from provincial fencing leaders and the Board.*
 
+---
+
 ## Observations
 
 ### Website modernization target (end of 2025) has passed #gap
@@ -31,6 +33,11 @@ The departure of Barbara Daniel (2021) and Martin Stoev's planned departure (ear
 
 ### Gender diversity gap vs. DEI targets
 The membership data (72% male) reveals that achieving the DEI policy's goal of 40% gender representation at the Board/committee level while the membership pipeline is only 27% female will require active intervention. Strategy 1's "+30% gender diversity target by 2027-28" is ambitious in this context. See [[2.3 Diversity, Equity, and Inclusion]].
+
+---
+
+> [!abstract] Source Summary
+> Summarized from [[strategic-plan-en]] · [[strategic-plan-fr]]. See source files for authoritative text.
 
 ## Summary
 

@@ -16,6 +16,8 @@ source-file:
 
 *Amended November 2024. Incorporated by letters patent, February 2006.*
 
+---
+
 ## Observations
 
 ### Bylaw–Carver mismatch #gap
@@ -32,6 +34,11 @@ At 40% of voting members needed to call a Special GM (§10), a significant minor
 
 ### Signing authority safeguard is solid
 §34 requires 2 of 3 signatories, with one being ED or President. This dual-signatory control is reinforced in [[2.6 Financial Management]] and effectively prevents any single actor from authorizing financial transactions.
+
+---
+
+> [!abstract] Source Summary
+> Summarized from [[bylaws-en]] · [[bylaws-fr]]. See source files for authoritative text.
 
 ## Summary
 

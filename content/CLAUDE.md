@@ -46,9 +46,9 @@ This vault contains governance analysis for Fencing-Escrime NB (FENB). Source PD
 ```
 FENB Governance/
 ├── 00 - Home/          # Hub/MOC notes
-├── 01 - Foundation/    # Bylaws, Board Policy Manual, Strategic Plan
-├── 02 - Policies/      # One note per policy (numbered + protocols)
-├── 03 - Analysis/      # Gap analysis, cross-reference maps, architecture notes
+├── 01 - Analysis/      # Gap analysis, cross-reference maps, architecture notes
+├── 02 - Foundation/    # Bylaws, Board Policy Manual, Strategic Plan
+├── 03 - Policies/      # One note per policy (numbered + protocols)
 └── 04 - Forms and Templates/  # Extracted forms and templates
 ```
 

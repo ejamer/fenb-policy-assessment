@@ -16,6 +16,8 @@ source-file:
 
 *Last approved revision: February 18, 2024. Last change: GP-D1 (Loyalty / Conflict of Interest).*
 
+---
+
 ## Observations
 
 ### The monitoring schedule has no home in the operational policies #gap
@@ -29,6 +31,11 @@ The Board Policy Manual dates from 2007–2024. The 12 operational policies are 
 
 ### GP-A4 (Board Inclusivity) is weaker than DEI Policy 2.3 #inconsistency
 GP-A4 calls for "reasonable efforts" for diverse Board representation. Policy [[2.3 Diversity, Equity, and Inclusion]] sets a specific target: minimum 40% representation of each gender on the Board. The operational policy is more specific and should be treated as the operative standard, but the Board Policy Manual should arguably be updated to reflect this commitment.
+
+---
+
+> [!abstract] Source Summary
+> Summarized from [[policy-manual-en]] · [[policy-manual-fr]]. See source files for authoritative text.
 
 ## Summary
 

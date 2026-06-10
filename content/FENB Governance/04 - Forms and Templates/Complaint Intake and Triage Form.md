@@ -28,6 +28,11 @@ The form does not include a confidentiality acknowledgment for the Complainant. 
 ### The form is embedded in the policy — not a standalone document
 The Complaint Intake Form is the annex to Policy 2.18, not a separate form document. This means it cannot be updated without formally amending the policy. For a form that should be relatively easy to iterate on (e.g., adding a digital submission option), this coupling is awkward. The form could be referenced by the policy rather than embedded in it.
 
+---
+
+> [!abstract] Source Summary
+> Summarized from [[internal-dispute-resolution.en]] · [[internal-dispute-resolution.fr]]. See source files for authoritative text.
+
 ## Summary
 
 ### Part 1 — General Information (Complainant to Complete)
