@@ -2,7 +2,7 @@
 
 Assessment and analysis of governance documentation for the Fédération d'escrime du Nouveau-Brunswick (FENB), organized as an Obsidian vault and published as a static site.
 
-**Hosted site: https://ejamer.github.io/fenb-policy-assessment/fenb-governance/00---home/fenb-governance-hub**
+**Hosted site: https://ejamer.github.io/fenb-policy-assessment/
 
 ## Overview
 

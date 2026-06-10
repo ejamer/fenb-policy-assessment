@@ -16,15 +16,31 @@ source-file:
 
 *Last approved revision: February 18, 2024. Last change: GP-D1 (Loyalty / Conflict of Interest).*
 
+## Observations
+
+### The monitoring schedule has no home in the operational policies #gap
+The monitoring schedule in BEDR is the engine of Carver governance — it's how the Board actually holds the ED accountable. Yet none of the 12 operational policies (all approved April 2026) reference this schedule. This means the formal monitoring cycle may be invisible to anyone who only reads the operational policies. It should be referenced in, or at minimum linked from, the annual ED performance review process. See [[Governance Architecture]].
+
+### EDB-B1 Financial Safety Net is more specific than Policy 2.6 #gap
+The Board Policy Manual requires that cash on hand never fall below "one year's ED salary + general administrative costs" without Board approval. The [[2.6 Financial Management]] policy (April 2026) does not mention this specific threshold — it only requires quarterly Treasurer reports and an annual audit. The EDB-B1 constraint is therefore only known to those who have read the Board Policy Manual, not the operational policy manual. This is a significant gap in financial oversight transparency.
+
+### The April 2026 operational policies were developed after this Board Policy Manual #inconsistency
+The Board Policy Manual dates from 2007–2024. The 12 operational policies are all "Approved April 2026." They appear to have been developed somewhat independently, with the operational policies being more detailed and prescriptive. The Carver model explicitly allows this — the ED can establish operational policies within Boundaries. However, some operational policies assign duties to the ED that go beyond what the Boundaries strictly require, which is fine under Carver (BEDR-C1), but worth noting. See [[Governance Architecture]].
+
+### GP-A4 (Board Inclusivity) is weaker than DEI Policy 2.3 #inconsistency
+GP-A4 calls for "reasonable efforts" for diverse Board representation. Policy [[2.3 Diversity, Equity, and Inclusion]] sets a specific target: minimum 40% representation of each gender on the Board. The operational policy is more specific and should be treated as the operative standard, but the Board Policy Manual should arguably be updated to reflect this commitment.
+
+## Summary
+
 The Board governs using the **Carver Policy Governance** model: the Board sets Ends (what outcomes FENB exists to produce) and Executive Limitations (what the ED may not do), then delegates all means-decisions to the ED. The Board monitors compliance against these policies, not against activities or methods.
 
 ---
 
-## GP — Governing Process Policy
+### GP — Governing Process Policy
 
 > "On behalf of the entire membership, the Board will govern through written policies that support the ends of Fencing-Escrime NB through explicit acceptable actions and situations."
 
-### GP-A: Governing Style
+**GP-A: Governing Style**
 Board governs with one voice from a diversity of viewpoints; proactively (not reactively); policies reflect explicitly stated organizational values; policies enable the ED to determine how to achieve Board vision.
 
 **GP-A1 — Group Responsibility:** Cultivate group governance excellence; use individual expertise for unified viewpoint; allow no individual/committee to hinder the Board.
@@ -35,16 +51,16 @@ Board governs with one voice from a diversity of viewpoints; proactively (not re
 
 **GP-A4 — Board Inclusivity:** Make reasonable efforts for diverse director representation — ethnicity, gender, club affiliation, age, religion, occupation, fencing community role.
 
-### GP-B: Board Job Description
+**GP-B: Board Job Description**
 - Establish and strengthen Board–membership link
 - Produce explicit written governing policies
 - Produce assurance of ED performance
 - Designate a spokesperson to represent Board to outside parties
 
-### GP-C: Chairperson's Role
+**GP-C: Chairperson's Role**
 Assure integrity and fulfillment of governing process policies; ensure meeting discussions only address Board-level issues; promote deliberations that encourage divergent viewpoints.
 
-### GP-D: Board Code of Conduct
+**GP-D: Board Code of Conduct**
 **GP-D1 — Loyalty to FENB Members:** Represent interests of members at large; disclose conflicts of interest annually via Conflict of Interest Declaration; declare new conflicts at start of each meeting.
 
 **GP-D2 — Commitment to Attendance:** Absence from 2 consecutive meetings = automatic resignation (mirrors [[Bylaws (Nov 2024)]] §30b).
@@ -57,7 +73,7 @@ Assure integrity and fulfillment of governing process policies; ensure meeting d
 
 ---
 
-## GE — Global Ends
+### GE — Global Ends
 
 > "As a result of the presence of Fencing-Escrime NB (FENB), New Brunswick has:"
 
@@ -74,11 +90,11 @@ Assure integrity and fulfillment of governing process policies; ensure meeting d
 
 ---
 
-## EDB — Executive Director Boundaries Policy
+### EDB — Executive Director Boundaries Policy
 
 > "The ED may not allow any practice, activity or circumstance that is unlawful or violates commonly accepted business, professional, and sports ethics or common business prudence and sport risk management."
 
-### EDB-A: Treatment of Members, Volunteers and Others
+**EDB-A: Treatment of Members, Volunteers and Others**
 > "ED may not knowingly allow conditions, procedures or decisions that are unsafe, unfair, disrespectful, or fail to provide appropriate confidentiality."
 
 | Sub-policy | Limitation |
@@ -95,7 +111,7 @@ Assure integrity and fulfillment of governing process policies; ensure meeting d
 | EDB-A10 | No member uninformed about or lacking access to a fair and timely appeal process |
 | EDB-A11 | No FENB member excluded from general FENB communications |
 
-### EDB-B: Financial Management
+**EDB-B: Financial Management**
 > "The ED may not allow the financial condition, activities or planning for any fiscal year or part thereof to: deviate from Board Ends policies; risk financial jeopardy; or fail to be derived from a strategic plan."
 
 | Sub-policy | Limitation |
@@ -109,7 +125,7 @@ Assure integrity and fulfillment of governing process policies; ensure meeting d
 | EDB-B7 Solicitation of Funds | No grants/donations that compromise values; no funds in accounts under outside signing authority; fundraising may extend beyond competitive development as long as it doesn't damage reputation |
 | EDB-B8 Monitoring of Financial Condition | Must review and report financial condition and make budget adjustments quarterly |
 
-### EDB-C: Asset Protection
+**EDB-C: Asset Protection**
 > "The ED may not allow the assets of FENB to be unprotected, inadequately maintained or unnecessarily risked."
 
 - EDB-C1: Adequately insure material assets against theft, loss, or damage
@@ -118,10 +134,10 @@ Assure integrity and fulfillment of governing process policies; ensure meeting d
 - EDB-C4: Must protect current and archival information files from loss or damage
 - EDB-C5: Must not endanger FENB's public image or credibility such that mission is significantly hindered
 
-### EDB-D: Compensation and Benefits
+**EDB-D: Compensation and Benefits**
 No jeopardy to fiscal integrity or public image with respect to compensation and benefits to consultants, contract workers, and volunteers.
 
-### EDB-E: Communication and Support to the Board
+**EDB-E: Communication and Support to the Board**
 > "The ED shall not permit the Board to be uninformed or unsupported in its work."
 
 - EDB-E1: Submit accurate, complete monitoring data per preset reporting schedule
@@ -131,7 +147,7 @@ No jeopardy to fiscal integrity or public image with respect to compensation and
 
 ---
 
-## BEDR — Board–Executive Director Relationship Policy
+### BEDR — Board–Executive Director Relationship Policy
 
 > "The Board of Directors will relate officially to staff only through the Executive Director."
 
@@ -166,19 +182,3 @@ No jeopardy to fiscal integrity or public image with respect to compensation and
 | EDB-D Compensation and Benefits | Internal | Annually |
 | EDB-E Communication and Support to Board | Direct inspection | Quarterly |
 | ENDS 1, 2, 3, 4 | Internal | Annually |
-
----
-
-## Observations
-
-### The monitoring schedule has no home in the operational policies #gap
-The monitoring schedule above is the engine of Carver governance — it's how the Board actually holds the ED accountable. Yet none of the 12 operational policies (all approved April 2026) reference this schedule. This means the formal monitoring cycle may be invisible to anyone who only reads the operational policies. It should be referenced in, or at minimum linked from, the annual ED performance review process. See [[Governance Architecture]].
-
-### EDB-B1 Financial Safety Net is more specific than Policy 2.6 #gap
-The Board Policy Manual requires that cash on hand never fall below "one year's ED salary + general administrative costs" without Board approval. The [[2.6 Financial Management]] policy (April 2026) does not mention this specific threshold — it only requires quarterly Treasurer reports and an annual audit. The EDB-B1 constraint is therefore only known to those who have read the Board Policy Manual, not the operational policy manual. This is a significant gap in financial oversight transparency.
-
-### The April 2026 operational policies were developed after this Board Policy Manual #inconsistency
-The Board Policy Manual dates from 2007–2024. The 12 operational policies are all "Approved April 2026." They appear to have been developed somewhat independently, with the operational policies being more detailed and prescriptive. The Carver model explicitly allows this — the ED can establish operational policies within Boundaries. However, some operational policies assign duties to the ED that go beyond what the Boundaries strictly require, which is fine under Carver (BEDR-C1), but worth noting. See [[Governance Architecture]].
-
-### GP-A4 (Board Inclusivity) is weaker than DEI Policy 2.3 #inconsistency
-GP-A4 calls for "reasonable efforts" for diverse Board representation. Policy [[2.3 Diversity, Equity, and Inclusion]] sets a specific target: minimum 40% representation of each gender on the Board. The operational policy is more specific and should be treated as the operative standard, but the Board Policy Manual should arguably be updated to reflect this commitment.

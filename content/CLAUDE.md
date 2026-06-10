@@ -65,6 +65,10 @@ review-cycle: "2 years"
 next-review: "Month YYYY"
 status: active | archived | referenced-but-absent
 tags: [policy, <domain-tag>]
+related-policies: ["2.X", "2.Y"]
+source-file:
+  - "[[slug.en]]"
+  - "[[slug.fr]]"
 ---
 ```
 
@@ -76,6 +80,9 @@ title: ""
 version-date: "Month YYYY"
 status: active
 tags: [bylaw | board-policy | strategic-plan]
+source-file:
+  - "[[slug-en]]"
+  - "[[slug-fr]]"
 ---
 ```
 
@@ -96,12 +103,32 @@ tags: [analysis]
 
 Domain tags: `#safe-sport` `#financial` `#hr` `#risk` `#privacy` `#dei` `#language` `#governance`
 
+### Note Structure
+
+Policy, foundation, form, and protocol notes all follow this section order to foreground assessment over summary:
+
+```
+frontmatter
+# Title
+(callout / approval date if applicable)
+
+## Related Policies
+(wiki-links to directly related notes)
+
+## Observations
+(gaps, inconsistencies, questions — tagged with #gap or #inconsistency inline)
+
+## Summary
+(structured summary of the source document's content)
+```
+
+The `source-file` frontmatter field links to the source `.en`/`.fr` wiki-link slugs. The source files are authoritative; the vault note is an assessed summary, not a verbatim copy.
+
 ### Vault Editing Rules
 
-- **Policy notes** include the full policy text plus a frontmatter block and an `## Observations` section below the content. Do not paraphrase policy text — keep it exact so the note is authoritative.
-- **Analysis notes** are interpretive — they draw on policy notes and foundation documents and should be updated as understanding evolves.
-- **Foundation document notes** contain key provisions extracted and structured, not verbatim full-text (source PDFs are the authoritative versions).
+- **Policy and foundation notes** contain a structured summary of the source document under `## Summary`. Do not attempt to reproduce verbatim text — the source files are authoritative. Headings within `## Summary` are H3 (or H4 for nested subsections).
+- **Analysis notes** are interpretive — they draw on policy notes and foundation documents and should be updated as understanding evolves. They do not have a `## Summary` section; content flows directly.
 - Always use `[[note title]]` wiki-links when referencing another note in the vault.
-- The `## Observations` section in any note is the place for issues, gaps, inconsistencies, and questions — keep it separate from policy text.
+- The `## Observations` section is the place for issues, gaps, inconsistencies, and questions. Keep it above `## Summary` so assessment is encountered before content.
 - When adding an observation that references a specific cross-document inconsistency, tag it with `#gap` or `#inconsistency` inline.
 - Update `[[FENB Governance Hub]]` when adding new notes.
